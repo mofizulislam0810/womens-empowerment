@@ -33,7 +33,7 @@ if(isset($_POST['submit'])){
         <?php include 'dashboardnav.php';?>
         <div class="col-md-10">
             <div class="row">
-                <div class="col-md-12 panel-warning">
+                <div class="col-md-12 my-3 mx-auto panel-warning">
                     <div class="content-box-large">
                         <div class="panel-heading">
                             <div class="panel-title text-center">Create Computer Tutorial From</div>
